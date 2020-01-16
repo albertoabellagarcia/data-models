@@ -2,7 +2,6 @@
   "id": "Alert:1",
   "type": "Alert",
   "category": "traffic",
-  "subCategory": "trafficJam",
   "severity": "high",
   "location": {
     "type": "Point",
